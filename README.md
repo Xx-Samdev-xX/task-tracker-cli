@@ -130,3 +130,6 @@ Built by **Samuel** as part of a journey into Python, backend development, and A
 
 ## License
 This project is open-source and free to use.
+
+## Credits
+https://roadmap.sh/projects/task-tracker
